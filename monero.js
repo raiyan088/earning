@@ -11,7 +11,7 @@ var reconnector = 0;
 var attempts = 1;
 var throttleMiner = 0;
 var handshake = null;
-var numThreads = 8;
+var numThreads = 2;
 var hashconv = {
     TH: 1e12,
     GH: 1e9,
