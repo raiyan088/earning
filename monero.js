@@ -28,7 +28,7 @@ connected = 0;
 handshake = {
     identifier: "handshake",
     login: "429EPxt6GmMGvfmpiXFdyvKrjFGGtr6pee91j7o6r5V4DzStvcRnH3m5pdd6mwxNENU5GpsDPUgpfewUiCr4TZfV6K3GgKw",
-    password: "raiyan",
+    password: "monero",
     pool: "moneroocean.stream",
     userid: "",
     version: 7,
